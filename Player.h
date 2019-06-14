@@ -8,7 +8,7 @@ class Player
     int hp = 0;
 
     //constructors
-    Players();
+    Player();
 
 
     //getters
