@@ -6,7 +6,7 @@
 
 using namespace std;
 
-string questions(string question, string answerA
+string questions(string question, string answerA,
               string answerB, string answerC,
               string answerD, string replyA,
               string replyB, string replyC,
@@ -53,7 +53,7 @@ string questions(string question, string answerA
 int main()
 {
   Player p1;
-  cout << p1.returnhp() << end1;
+  cout << p1.returnHp() << endl;
 
   return 0;
 }

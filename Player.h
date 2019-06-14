@@ -12,7 +12,7 @@ class Player
 
 
     //getters
-    int returnHp;
+    int returnHp();
 
 
     //mutators
