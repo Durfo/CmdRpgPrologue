@@ -30,7 +30,7 @@ string questions(string question, string answerA
     }
     else if(input == answerB)
     {
-      cout << replyB << end;
+      cout << replyB << endl;
       return answerB;
     }
     else if (input == answerC)
@@ -52,12 +52,8 @@ string questions(string question, string answerA
 }
 int main()
 {
+  Player p1;
+  cout << p1.returnhp() << end1;
 
-  cout << p1.returnhp() <<end1;
-}
-
-
-
-
-
+  return 0;
 }
