@@ -7,7 +7,7 @@ Player::Player()
 {
   this->hp = 10;
 }
-}
+
 int Player::returnHp()
 {
   return this->hp;
