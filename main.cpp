@@ -49,6 +49,7 @@ string questions(string question, string answerA,
 
     }
   }
+return "";
 }
 int main()
 {
